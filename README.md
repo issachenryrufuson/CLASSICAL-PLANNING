@@ -1,5 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 # Algorithm or Steps Involved:
+<h3>Name: Issac Henry rufuson s</h3>
+<h3>Register Number: 212224250007</h3>
 <ol>
   <li>Define the initial state</li>
   <li>Define the goal state</li>
